@@ -1,0 +1,9 @@
+@charset "utf-8";
+.hssy-top-img{
+	width: 100%;
+	max-width: 1920px;
+}
+.hssy-top-img>img{
+	width: 1920px;
+	height: 456px;
+}
